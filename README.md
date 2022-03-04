@@ -9,4 +9,3 @@
 <a href="https://discordapp.com/users/607197619193643029"><img src="https://img.shields.io/badge/Discord-Mr.Nab%230730-7289DA?logo=discord&style=for-the-badgel"></a>
 </p>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=RealYuri&label=Profile%20views&color=0e75b6&style=flat" alt= "RealYuri001"></p>
-![My Discord](https://discord-readme-badge.vercel.app/api?id=607197619193643029)
