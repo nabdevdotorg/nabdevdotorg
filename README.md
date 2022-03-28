@@ -13,3 +13,6 @@
 
 
 [![](https://discord.c99.nl/widget/theme-3/607197619193643029.png)](https://discord.gg/zstKQzgkcW)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RealYuri001)](https://git.io/streak-stats)
