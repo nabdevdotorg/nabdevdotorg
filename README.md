@@ -19,7 +19,7 @@ WIP
 
 WIP
 
-## Programming Langauages
+## Programming Languages
 
 WIP
 
