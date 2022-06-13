@@ -13,15 +13,17 @@
 
 ## Operating Systems
 
-WIP
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## Code Editors
 
-WIP
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=black)
 
 ## Programming Languages
 
-WIP
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust]()
 
 ## Databases and Cloud Hosting
 
@@ -29,7 +31,7 @@ WIP
 
 ## Software and Tools I use
 
-WIP
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## My Projects
 
