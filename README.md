@@ -66,5 +66,4 @@ info = Myinfo()
 def print_info() -> None:
     print(info)
     print("Thank you for spending your time looking at my profile.")
-
 ```
