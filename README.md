@@ -23,7 +23,7 @@
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust]()
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=whit)
 
 ## Databases and Cloud Hosting
 
