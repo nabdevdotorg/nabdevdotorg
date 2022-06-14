@@ -50,12 +50,6 @@
 
 WIP
 
-## Stats
-
-WIP
-
-
-
 ## Who am I?
 
 ```py
@@ -82,3 +76,8 @@ def print_info() -> None:
     print(info)
     print("Thank you for spending your time looking at my profile.")
 ```
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="RealKiller's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RealYuri001&theme=github-dark"/>
+</p>
