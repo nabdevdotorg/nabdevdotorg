@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn.discordapp.com/avatars/607197619193643029/db569745d8f517a092bdee165f28072c.png?size=1024" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/77676149?v=4" alt="Logo" width="80" height="80">
   </a>
   
   <h3 align="center"> Mr.Nab (RealKiller666) </h3>
