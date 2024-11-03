@@ -69,7 +69,7 @@
 ## My Projects
 
 - Official Network-Chat Bot (Invite [here](https://discord.com/oauth2/authorize?client_id=942739456983728169&permissions=2684685392&scope=bot%20applications.commands))
-- [TagSharpEngine](https://github.com/Stellar-Development-Organization/)
+- [TagSharpEngine](https://github.com/Stellar-Development-Organization/TagSharpEngine)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
