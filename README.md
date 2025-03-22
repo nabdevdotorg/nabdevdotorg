@@ -4,11 +4,11 @@
     <img src="https://avatars.githubusercontent.com/u/77676149?v=4" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center"> Nabdev.org (RealKiller666) </h3>
+  <h3 align="center"> nabdev.org (RealKiller666) </h3>
   <p aligh="center">
     A strange person who knows how to code a bit.
   <br/>
-  <a href=""><strong>My GitHub Profile Link</strong></a>
+  <a href="https://github.com/nabdevdotorg/"><strong>My GitHub Profile Link</strong></a>
 </div>
 
 ## Operating Systems
@@ -65,11 +65,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-
-## My Projects
-
-- Official Network-Chat Bot (Invite [here](https://discord.com/oauth2/authorize?client_id=942739456983728169&permissions=2684685392&scope=bot%20applications.commands))
-- [TagSharpEngine](https://github.com/Stellar-Development-Organization/TagSharpEngine)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
