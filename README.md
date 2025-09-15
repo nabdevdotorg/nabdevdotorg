@@ -1,30 +1,34 @@
-<br/>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://avatars.githubusercontent.com/u/77676149?v=4" alt="Logo" width="80" height="80">
   </a>
   
   <h3 align="center">nabdev.org</h3>
-  <p aligh="center">
-    A strange person who knows how to code a bit.
+  <p align="center">
+    Just another random developer you see on GitHub. Nothing more.
   <br/>
   <a href="https://github.com/nabdevdotorg/"><strong>My GitHub Profile Link</strong></a>
+  </p>
 </div>
 
-## Operating Systems
+---
+
+## My Tech Stack
+
+### Operating Systems
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-## Code Editors
+### Code Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=black)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-## Programming and Markdown Languages
+### Programming and Markdown Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=whit)
@@ -37,7 +41,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-## Databases and Cloud Hosting
+### Databases and Cloud Hosting
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,7 +52,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Frameworks & Libraries
+### Frameworks & Libraries
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -58,7 +62,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
-## Software and Tools I use
+### Software and Tools
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
@@ -66,7 +70,20 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
+---
+
+## My GitHub Stats
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="RealKiller's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabdevdotorg&theme=github-dark"/>
+    <img alt="Nab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabdevdotorg&theme=github-dark"/>
+  </a>
 </p>
+
+---
+
+## Contacts
+
+*   **GitHub:** [@nabdevdotorg](https://github.com/nabdevdotorg/)
+*   **Discord:** nabdev.org
+*   **Email:** official_nab@nabdev.org
