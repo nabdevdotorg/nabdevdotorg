@@ -4,7 +4,7 @@
     <img src="https://avatars.githubusercontent.com/u/77676149?v=4" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center"> nabdev.org (RealKiller666) </h3>
+  <h3 align="center">nabdev.org</h3>
   <p aligh="center">
     A strange person who knows how to code a bit.
   <br/>
@@ -68,5 +68,5 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="RealKiller's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RealYuri001&theme=github-dark"/>
+    <img alt="RealKiller's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabdevdotorg&theme=github-dark"/>
 </p>
